@@ -1,0 +1,92 @@
+Uri: http://videoshd.club/
+File Name: C:\Downloaded Web Sites\videoshd.club\index.htm
+Content Type: text/html
+
+Uri: http://videoshd.club/css/estilos.css
+File Name: C:\Downloaded Web Sites\videoshd.club\css\estilos.css
+Content Type: text/css
+
+Uri: http://videoshd.club/img/avatar/04.jpg
+File Name: C:\Downloaded Web Sites\videoshd.club\img\avatar\04.jpg
+Content Type: image/jpeg
+
+Uri: http://videoshd.club/img/cabfd.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\cabfd.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/cabfdv.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\cabfdv.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/carita.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\carita.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/culos/aku9d-0lzqb.webp
+File Name: C:\Downloaded Web Sites\videoshd.club\img\culos\aku9d-0lzqb.webp
+Content Type: image/webp
+
+Uri: http://videoshd.club/img/enviar.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\enviar.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/favicon.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\favicon.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/fondowsp.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\fondowsp.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/gem.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\gem.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/gy.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\gy.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/play.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\play.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/reloj.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\reloj.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/tic.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\tic.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/ticverde.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\ticverde.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/video.png
+File Name: C:\Downloaded Web Sites\videoshd.club\img\video.png
+Content Type: image/png
+
+Uri: http://videoshd.club/img/videofondo.jpg
+File Name: C:\Downloaded Web Sites\videoshd.club\img\videofondo.jpg
+Content Type: image/jpeg
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\videoshd.club\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400, 300, 600, 700
+File Name: C:\Downloaded Web Sites\videoshd.club\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\videoshd.club\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\videoshd.club\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-156810917-1
+File Name: C:\Downloaded Web Sites\videoshd.club\gtag\js
+Content Type: application/javascript
+
